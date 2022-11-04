@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-25T12:03:44 IST" name="Default suite" finished-at="2022-10-25T12:03:48 IST" duration-ms="3628">
+    <groups>
+    </groups>
+    <test started-at="2022-10-25T12:03:44 IST" name="Default test" finished-at="2022-10-25T12:03:48 IST" duration-ms="3628">
+      <class name="com.demoapi.GetDemoAll">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.demoapi.GetDemoAll@6d4e5011]" started-at="2022-10-25T12:03:44 IST" name="configBS" finished-at="2022-10-25T12:03:44 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBT()[pri:0, instance:com.demoapi.GetDemoAll@6d4e5011]" started-at="2022-10-25T12:03:44 IST" name="configBT" finished-at="2022-10-25T12:03:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBT -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.demoapi.GetDemoAll@6d4e5011]" started-at="2022-10-25T12:03:44 IST" name="configBC" finished-at="2022-10-25T12:03:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.demoapi.GetDemoAll@6d4e5011]" started-at="2022-10-25T12:03:44 IST" name="configBM" finished-at="2022-10-25T12:03:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="getAll()[pri:1, instance:com.demoapi.GetDemoAll@6d4e5011]" started-at="2022-10-25T12:03:44 IST" name="getAll" finished-at="2022-10-25T12:03:48 IST" duration-ms="3544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAll -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.demoapi.GetDemoAll@6d4e5011]" started-at="2022-10-25T12:03:48 IST" name="configAM" finished-at="2022-10-25T12:03:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.demoapi.GetDemoAll@6d4e5011]" started-at="2022-10-25T12:03:48 IST" name="configBM" finished-at="2022-10-25T12:03:48 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="getSingle()[pri:2, instance:com.demoapi.GetDemoAll@6d4e5011]" started-at="2022-10-25T12:03:48 IST" name="getSingle" finished-at="2022-10-25T12:03:48 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingle -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.demoapi.GetDemoAll@6d4e5011]" started-at="2022-10-25T12:03:48 IST" name="configAM" finished-at="2022-10-25T12:03:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.demoapi.GetDemoAll@6d4e5011]" started-at="2022-10-25T12:03:48 IST" name="configBM" finished-at="2022-10-25T12:03:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="getSingle2()[pri:4, instance:com.demoapi.GetDemoAll@6d4e5011]" started-at="2022-10-25T12:03:48 IST" name="getSingle2" finished-at="2022-10-25T12:03:48 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingle2 -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.demoapi.GetDemoAll@6d4e5011]" started-at="2022-10-25T12:03:48 IST" name="configAM" finished-at="2022-10-25T12:03:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.demoapi.GetDemoAll@6d4e5011]" started-at="2022-10-25T12:03:48 IST" name="configAC" finished-at="2022-10-25T12:03:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAT()[pri:0, instance:com.demoapi.GetDemoAll@6d4e5011]" started-at="2022-10-25T12:03:48 IST" name="configAT" finished-at="2022-10-25T12:03:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAT -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.demoapi.GetDemoAll@6d4e5011]" started-at="2022-10-25T12:03:48 IST" name="configAS" finished-at="2022-10-25T12:03:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.demoapi.GetDemoAll -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
